@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: arial;
+  font-size: 14px; }
+
+.clear {
+  clear: both; }
+
+#wrapper {
+  width: 100%;
+  margin: 0 auto; }
+
+.table p {
+  font-size: 19px;
+  margin-bottom: 9px;
+  margin-top: 9px;
+  color: #F80B0B; }
+
+table th {
+  color: black;
+  font-size: 13px; }
+
+table tr {
+  height: 30px;
+  line-height: 30px;
+  margin: 0;
+  padding: 0; }
+  table tr td {
+    border: 1px solid #EEE;
+    text-align: center; }
+
+thead #details-t {
+  background: none repeat scroll 0 0 rgba(0, 0, 0, 0.6);
+  color: #ddd;
+  height: 13px; }
+
+/*# sourceMappingURL=style.css.map */
